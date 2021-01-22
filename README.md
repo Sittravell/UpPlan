@@ -1,6 +1,24 @@
 # UpPlan
 A 3D map of Faculty of Computer Science & Information Technology in University Putra Malaysia. The map uses Augmented Reality technology which was developed using Unity, Vuforia and Blender.
 
+## NOTICE
+• Only Open Map feature is available
+
+## How to install
+1. Open this page in your mobile
+
+2. Click "View code" link if list of project file and folder is not visible.
+
+3. Click on "UpPlan.apk" link and you will be navigated to a new page.
+
+4. Click on "Download" button and your download should be in progress.
+
+5. Once download is complete, open the UpPlan.apk file. Don't worry there is no malicious content, I pinky promise you.
+
+6. When prompted  "Do you want to install this application?", click on "INSTALL" option and your installation should be in progress.
+
+7. Once installation is complete, click "Open" option and you shall explore the application. Remember to allow camera access when prompted. This is for the app to use your camera when displaying the 3D map.
+
 ## MAIN MENU
 
 <img src="images/main_menu.png" alt="Main Menu" width="300" height="500"/>
@@ -12,8 +30,11 @@ When you start up the app , you will be directed to the Main Menu. Here you can 
 <img src="images/location_menu.png" alt="Location Menu" width="300" height="500"/>
 
 Once you choose a location, you will see a pop-up which is a Destination Menu. Here you can select:
+
 • Open Map to proceed to the 3D map.
+
 • Explore Locations to search for a specific location
+
 • Back to return to Main Menu
 
 ## SPECIFIC LOCATION MENU
@@ -24,7 +45,7 @@ If you selected Explore Locations in the Location Menu you will see a list of lo
 
 ## IMAGE TARGET
 
-If you have selected “Open Map” or selected a specific location, your phone camera should start up (Please allow camera access, if you are prompted to).The 3D map should appear on the camera. However, it requires an image target to do so. Please use our UpPlan image target which is shown on Figure 4.1 below. Place the image target under the phone camera like in Figure 4.2. The 3D map will then appear on top of the image target like Figure 4.3 below.
+If you have selected “Open Map” or selected a specific location, your phone camera should start up (Please allow camera access, if you are prompted to).The 3D map should appear on the camera. However, it requires an image target to do so. Please use the UpPlan image target which is shown below. Place the image target under the phone camera. The 3D map will then appear on top of the image target.
 <img src="images/image_target.jpg" alt="UpPlan’s Image Target" width="1000" height="500"/>
 
 <img src="images/demo_image_target.png" alt="Place image target under camera" width="300" height="500"/>                   <img src="images/demo_3d_map_top.png" alt="3D map of FSKTM" width="300" height="500"/>
